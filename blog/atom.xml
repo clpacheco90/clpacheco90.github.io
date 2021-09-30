@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://calvinpacheco.com/blog</id>
+    <title>Calvin Luiz Pacheco Blog</title>
+    <updated>1996-03-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://calvinpacheco.com/blog"/>
+    <subtitle>Calvin Luiz Pacheco Blog</subtitle>
+    <icon>https://calvinpacheco.com/img/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[First Contact]]></title>
+        <id>first-contact</id>
+        <link href="https://calvinpacheco.com/blog/first-contact"/>
+        <updated>1996-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I was five years old, my dad bought a i486. He used to let me some notes explaining how to use DOS, before he went work. My firsts and favorites games were Mortal Kombat II and FIFA95. I remember like yesterday, I putting a cheat-code, AICULEDSSUL, to win all rounds just with one hit on MKII. Since that time, I have been addicting to create games. So, My name is Calvin and I'm software developer.]]></summary>
+    </entry>
+</feed>
