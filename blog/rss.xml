@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Calvin Luiz Pacheco Blog</title>
-        <link>https://clpacheco90.github.i/blog</link>
+        <link>https://clpacheco90.github.io/blog</link>
         <description>Calvin Luiz Pacheco Blog</description>
         <lastBuildDate>Mon, 04 Mar 1996 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[First Contact]]></title>
-            <link>https://clpacheco90.github.i/blog/first-contact</link>
+            <link>https://clpacheco90.github.io/blog/first-contact</link>
             <guid>first-contact</guid>
             <pubDate>Mon, 04 Mar 1996 00:00:00 GMT</pubDate>
             <description><![CDATA[When I was five years old, my dad bought a i486. He used to let me some notes explaining how to use DOS, before he went work. My firsts and favorites games were Mortal Kombat II and FIFA95. I remember like yesterday, I putting a cheat-code, AICULEDSSUL, to win all rounds just with one hit on MKII. Since that time, I have been addicting to create games. So, My name is Calvin and I'm software developer.]]></description>
